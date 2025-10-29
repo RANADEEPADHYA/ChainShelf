@@ -61,14 +61,8 @@ Every action (add, borrow, return) is **recorded transparently** on the blockcha
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/XXX.git
-   cd XXX
-   ```
-
-2. **Open Remix IDE**
-
-   * Visit [Remix IDE](https://remix.ethereum.org)
-   * Paste your smart contract code inside a new file (`VotingDApp.sol`)
+   git clone https://github.com/RANADEEPADHYA/CheinShelf.git
+   * Paste your smart contract code inside a new file (`ChainShelf.sol`)
 
 3. **Compile & Deploy**
 
@@ -103,7 +97,7 @@ Every action (add, borrow, return) is **recorded transparently** on the blockcha
 
 ---
 
-### 🧠 Made with ❤️ by [Ranadeep Adhya]
+### 🧠 Made with ❤️ by Ranadeep Adhya
 
 ```
 
