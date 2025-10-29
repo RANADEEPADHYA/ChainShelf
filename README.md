@@ -56,23 +56,20 @@ Every action (add, borrow, return) is **recorded transparently** on the blockcha
 
 ---
 
-## 🚀 How to Run Locally
 
-1. **Clone the repository**
+## 🛠️ How to Use (Beginner-Friendly)
 
-   ```bash
-   git clone https://github.com/RANADEEPADHYA/CheinShelf.git
-   * Paste your smart contract code inside a new file (`ChainShelf.sol`)
+1. Go to [Remix IDE](https://remix.ethereum.org/).
 
-3. **Compile & Deploy**
+2. Create a new file called `ChainShelf.sol`.
 
-   * Select **Solidity Compiler** → version `0.8.20`
-   * Deploy using **Injected Web3** to connect your **Celo wallet**
+3. Paste the smart contract code above.
 
-4. **Interact with the Contract**
+4. Compile it with Solidity version `^0.8.0`.
 
-   * Call `vote()` with the candidate index.
-   * Use `getCandidate()` to view results.
+5. Deploy it using your MetaMask wallet connected to **Celo Sepolia Testnet**.
+
+6. Try adding, borrowing, and returning books!
 
 ---
 
