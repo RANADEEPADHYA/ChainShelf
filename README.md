@@ -44,7 +44,7 @@ Every action (add, borrow, return) is **recorded transparently** on the blockcha
 - **Framework:** Remix / Hardhat compatible  
 - **Network:** Celo Sepolia Testnet  
 - **Deployed Transaction:**  
-  👉[https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2](https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2)
+  👉 [https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2](https://celosepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2)
 
 ---
 
