@@ -36,13 +36,71 @@ Every action (add, borrow, return) is **recorded transparently** on the blockcha
 
 ## 🔗 Deployed Smart Contract
 
-**Network:** Celo Sepolia Testnet  
-**Transaction Hash:**  
-[https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2](https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2)
+- **Language:** Solidity `^0.8.20`  
+- **Framework:** Remix / Hardhat compatible  
+- **Network:** Celo Sepolia Testnet  
+- **Deployed Transaction:**  
+  👉[https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2](https://celo-sepolia.blockscout.com/tx/0xe8b2f3f5e74da2bd29c8210b737fbbac1fe0c1cad47871fb955b99520a74f1b2)
 
 ---
 
-## 🧱 Smart Contract Code
+## 💻 Smart Contract Code
 
 ```solidity
 //paste your code
+````
+
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/your-username/XXX.git
+   cd XXX
+   ```
+
+2. **Open Remix IDE**
+
+   * Visit [Remix IDE](https://remix.ethereum.org)
+   * Paste your smart contract code inside a new file (`VotingDApp.sol`)
+
+3. **Compile & Deploy**
+
+   * Select **Solidity Compiler** → version `0.8.20`
+   * Deploy using **Injected Web3** to connect your **Celo wallet**
+
+4. **Interact with the Contract**
+
+   * Call `vote()` with the candidate index.
+   * Use `getCandidate()` to view results.
+
+---
+
+## 🧩 Future Enhancements
+
+* 🖥️ Build a React front-end with **Celo Composer** or **Ethers.js**
+* 🧾 Add voter registration and candidate management
+* 📊 Display live voting stats on UI
+* 🔐 Integrate identity verification (optional)
+
+---
+
+## 🙌 Acknowledgments
+
+* [Celo Blockchain](https://celo.org/) for providing eco-friendly infrastructure
+* [Remix IDE](https://remix.ethereum.org/) for easy smart contract testing
+* [Blockscout](https://blockscout.com/) for transparent transaction viewing
+
+---
+
+> 💡 **Pro Tip:** Start small — experiment, break things, and learn how decentralized apps work under the hood.
+
+---
+
+### 🧠 Made with ❤️ by [Ranadeep Adhya]
+
+```
+
+---
