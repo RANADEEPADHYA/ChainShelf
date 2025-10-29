@@ -5,7 +5,8 @@ A transparent and decentralized record-keeping system for library book checkouts
 ChainShelf makes managing and tracking books easy, fair, and fully verifiable on the blockchain.  
 It’s a perfect beginner-friendly project to understand how real-world systems can be implemented with Web3 technology.
 
-![Uploading Screenshot 2025-10-29 135827.png…]()
+<img width="1920" height="1080" alt="Screenshot 2025-10-29 135827" src="https://github.com/user-attachments/assets/40527212-cff6-4bb4-bca0-9dafe8769967" />
+
 
 
 ---
